@@ -15,6 +15,7 @@ Welcome to wbee's documentation!
    regist_task
    user_functions
    tables
+   routes
 
 Indices and tables
 ==================
